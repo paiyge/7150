@@ -1,4 +1,4 @@
-﻿Country,Pollutant,Variable,Year,Unit,PowerCode,Value
+﻿Country,Pollutant,Variable,Year,Unit,PowerCode,Emissions
 Monaco,Greenhouse gases,Total emissions including LULUCF,2014,Tonnes of CO2 equivalent,Thousands,85.13
 Liechtenstein,Greenhouse gases,Total emissions including LULUCF,2014,Tonnes of CO2 equivalent,Thousands,217.69
 Malta,Greenhouse gases,Total emissions including LULUCF,2014,Tonnes of CO2 equivalent,Thousands,2803.03
