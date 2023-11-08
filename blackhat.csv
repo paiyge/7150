@@ -1,4 +1,4 @@
-Country,Pollutant,Variable,Year,Unit,PowerCode,Value
+Country,Pollutant,Variable,Year,Unit,PowerCode,Emissions
 Sweden,Greenhouse gases,Total GHG incl. LULUCF per capita,2014,Kilograms per capita,Thousands,0.599
 Chile,Greenhouse gases,Total GHG incl. LULUCF per capita,2014,Kilograms per capita,Thousands,2.261
 Monaco,Greenhouse gases,Total GHG incl. LULUCF per capita,2014,Kilograms per capita,Thousands,2.358
