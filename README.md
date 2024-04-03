@@ -1,6 +1,6 @@
 # Acadia National Park Resident Species
 
-To view the einteravtice diagram visit: https://observablehq.com/d/c8edef3f33b05e9f@409  
+To view the interactive diagram visit: https://observablehq.com/d/c8edef3f33b05e9f@409  
   
 This visualization is made of two interactive rings. The outer ring contains mammalian species found in U.S. National Parks. The inner ring has the names of the parks. To use, hover over one of the circles. If you hover over an animal in the outer ring, the corresponding park circles will be emphasized in the inner ring. The same is true for the outer circle if you hover over a park name in the inner circle. Using this graphic, you are able to identify what species are found in which parks and which parks have what species, making it easier to identify animals you might see when visiting.  
 ![untitled](https://github.com/paiyge/7150/assets/91477408/32ccf1d2-eb87-4561-bd75-7b232b8e11e3)
