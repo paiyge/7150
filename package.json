@@ -1,0 +1,14 @@
+{
+  "name": "c8edef3f33b05e9f",
+  "main": "c8edef3f33b05e9f@409.js",
+  "version": "409.0.0",
+  "homepage": "https://observablehq.com/d/c8edef3f33b05e9f",
+  "author": {
+    "name": "Paiyge's Workspace",
+    "url": "https://observablehq.com/@paiyge-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
